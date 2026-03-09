@@ -8,18 +8,18 @@
 
 | 特性 | `configfull_NoAd.yaml` | `configfull_lite.yaml` | `configfull.yaml` |
 | :--- | :--- | :--- | :--- |
-| **大小** | 33.6 KB | 17.6 KB | 34.1 KB |
+| **大小** | 34.1 KB | 17.7 KB | 34.6 KB |
 | **混合端口** | 7890 | 7890 | 7890 |
 | **面板地址** | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 |
 | **运行模式** | rule | rule | rule |
 | **TUN** | ✅ | ✅ | ✅ |
 | **策略组** | **59** | **47** | **62** |
-| **规则数** | **95** | **38** | **96** |
+| **规则数** | **97** | **38** | **98** |
 
 ## 📄 配置详情
 
 #### 📝 configfull_NoAd.yaml
-- **路径**: `configfull_NoAd.yaml` | **大小**: 33.6 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/Lanlan13-14/configfull_NoAd.yaml)
+- **路径**: `configfull_NoAd.yaml` | **大小**: 34.1 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/Lanlan13-14/configfull_NoAd.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (59个)</summary>
@@ -50,7 +50,7 @@
 </details>
 
 #### 📝 configfull_lite.yaml
-- **路径**: `configfull_lite.yaml` | **大小**: 17.6 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/Lanlan13-14/configfull_lite.yaml)
+- **路径**: `configfull_lite.yaml` | **大小**: 17.7 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/Lanlan13-14/configfull_lite.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (47个)</summary>
@@ -81,7 +81,7 @@
 </details>
 
 #### 📝 configfull.yaml
-- **路径**: `configfull.yaml` | **大小**: 34.1 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/Lanlan13-14/configfull.yaml)
+- **路径**: `configfull.yaml` | **大小**: 34.6 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/Lanlan13-14/configfull.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (62个)</summary>
