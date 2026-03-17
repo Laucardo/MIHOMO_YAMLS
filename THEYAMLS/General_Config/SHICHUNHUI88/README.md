@@ -58,9 +58,9 @@
 | 👆 🎮国际游戏 | `select` |
 | 👆 💻Telegram | `select` |
 | 👆 🧠OpenAI | `select` |
-| 👆 😊微软服务 | `select` |
 | 👆 🌐Google服务 | `select` |
 | 👆 📺国际流媒体 | `select` |
+| 👆 😊微软服务 | `select` |
 | 👆 🍎苹果服务 | `select` |
 | 👆 ⛩️国内网站 | `select` |
 | 👆 🎯直连 | `select` |

@@ -7,10 +7,10 @@
 ## 📄 配置详情
 
 #### 📝 mihomo_smart.yaml
-- **路径**: `mihomo_smart.yaml` | **大小**: 12.9 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/Smart_Mode/echs-top/mihomo_smart.yaml)
+- **路径**: `mihomo_smart.yaml` | **大小**: 14.4 KB | [查看源码](https://github.com/HenryChiao/MIHOMO_YAMLS/blob/main/THEYAMLS/Smart_Mode/echs-top/mihomo_smart.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
-<summary>🔍 策略组 (18个)</summary>
+<summary>🔍 策略组 (20个)</summary>
 
 | 名称 | 类型 |
 | :--- | :--- |
@@ -19,7 +19,9 @@
 | 👆 代理DNS | `select` |
 | 👆 FCM推送 | `select` |
 | 👆 TELEGRAM | `select` |
+| 👆 GITHUB | `select` |
 | 👆 国外AI | `select` |
+| 👆 GOOGLE | `select` |
 | ♻️ 最低延迟 | `url-test` |
 | 👆 香港&#124;智能选择 | `smart` |
 | 👆 台湾&#124;智能选择 | `smart` |
